@@ -1,0 +1,19 @@
+{
+  "name": "permulaan",
+  "version": "1.0.0",
+  "description": "Belajar Firebase dari Sekolah Koding",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MochamadFikri/Belajar_Firebase.git"
+  },
+  "author": "Mochamad Fikri Fadila Akbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MochamadFikri/Belajar_Firebase/issues"
+  },
+  "homepage": "https://github.com/MochamadFikri/Belajar_Firebase#readme"
+}
